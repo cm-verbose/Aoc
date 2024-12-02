@@ -1,0 +1,15 @@
+{
+  "name": "aoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "cmvb",
+  "license": "ISC",
+  "description": "A repository for my Advent of code solutions",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
